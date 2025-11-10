@@ -1,79 +1,55 @@
-# GitHub Profile Analyzer (API + Python + Data Visualization)
-### Run the Project in Google Colab
+# 🔍 GitHub Profile Analyzer (Free API)  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dynamic010/github-profile-analyzer/blob/main/GitHub_Profile_Analyzer_Colab.ipynb)
-
-This project analyzes any GitHub user's public profile using the **free GitHub REST API**.  
-It compares developer activity, repository stats, and programming language usage.  
-No authentication, no paid API keys required.
+Analyze any GitHub user's public profile using the **free GitHub REST API**.  
+No API key required. No authentication. Just clean insights. 🚀
 
 ---
 
-## 🔥 Objective
-To understand developer skill patterns from their GitHub activity and present insights through:
-- Repository stats
-- Programming language trends
-- Stars & popularity metrics
-- Profile comparison reports
+## ▶️ Run the Project in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dynamic010/github-profile-analyzer/blob/main/GitHub_Profile_Analyzer_Colab.ipynb)
+
+---
+
+## 🎯 Objective  
+To understand developer skill patterns from their GitHub activity through:  
+
+- Repository statistics  
+- Programming language trends  
+- Top starred repositories  
+- Profile summary & text-based report export  
 
 ---
 
 ## 🧠 Tech Used
-| Component | Tech |
-|----------|------|
+
+| Component | Technology |
+|----------|-------------|
 | Data Source | GitHub REST API (Free) |
 | Language | Python |
 | Libraries | requests, pandas, matplotlib |
-| Output | Text Reports + Visualizations |
+| Output | Console Summary + Text Report |
 
 ---
 
-## 📌 How It Works
-1. Input a GitHub username
-2. Fetch public profile + repo list from API
-3. Analyze:
-   - Languages used
-   - Stars & repository popularity
-   - Follower/Following ratio
-4. Generate:
-   - Profile Summary
-   - Top Repositories Table
-   - Language Pie Chart
+## 📦 Features  
+✅ Fetches GitHub profile info  
+✅ Lists all repositories & star counts  
+✅ Automatically detects top programming languages  
+✅ Generates report `github_profile_report.txt`  
+✅ Flexible — works for any public GitHub username  
 
 ---
 
-## 🔍 Example Users Analyzed
-We compared **Linus Torvalds** (creator of Linux) with **dynamic010**.
+## 📂 Files in this Repository
 
-| Metric | torvalds | dynamic010 |
-|--------|---------|------------|
-| Public Repos | Many (Linux contributions) | Growing portfolio |
-| Followers | Extremely high (global legend) | Growing developer community |
-| Primary Languages | C, C++ | Python, AI/ML Projects |
-| Repo Focus | OS kernel, low-level systems | Data Analytics, Machine Learning, AI Apps |
-
----
-
-## 🎨 Language Usage Visualization
-The project generates a **pie chart** showing which languages the user works in most.
-
----
-
-## 🔥 Top Starred Repositories Report
-The project also ranks repositories by stars to identify:
-- Best work
-- Most popular contributions
-- Community impact indicators
-
----
-
-## 📦 Files in This Repository
 | File | Description |
 |------|-------------|
-| `GitHub_Profile_Analyzer.ipynb` | Main notebook |
-| `github_profile_report.txt` | Summary report output |
-| `profile_language_pie.png` (optional) | Language usage chart |
+| `GitHub_Profile_Analyzer_Colab.ipynb` | Notebook for running the project |
+| `github_profile_report.txt` | Example generated summary report |
+| `README.md` | Project documentation |
 
 ---
 
-## 📝 Resume Bullet Points
+## 📸 Sample Output  
+
