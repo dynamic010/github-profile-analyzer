@@ -8,6 +8,8 @@ No API key required. No authentication. Just clean insights. 🚀
 ## ▶️ Run the Project in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dynamic010/github-profile-analyzer/blob/main/GitHub_Profile_Analyzer_Colab.ipynb)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-profile-analyzer-x9udjw9ukgzmpnpjveqnmu.streamlit.app/)
+
 
 ---
 
