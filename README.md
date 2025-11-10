@@ -9,9 +9,7 @@ No API key required. No authentication. Just clean insights. 🚀
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dynamic010/github-profile-analyzer/blob/main/GitHub_Profile_Analyzer_Colab.ipynb)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-profile-analyzer-x9udjw9ukgzmpnpjveqnmu.streamlit.app/)
-### Run on Google Colab  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dynamic010/github-profile-analyzer/blob/main/GitHub_Profile_Analyzer_Colab.ipynb)
-
+[![Open In Colab]https://colab.research.google.com/drive/1aeyjlZpZiLeMQ6NRbGY7wUd0Qyy_CLHj#scrollTo=PqANRslRaDSv
 ---
 
 ## 🎯 Objective  
