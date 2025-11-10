@@ -1,4 +1,7 @@
 # GitHub Profile Analyzer (API + Python + Data Visualization)
+### Run the Project in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dynamic010/github-profile-analyzer/blob/main/GitHub_Profile_Analyzer_Colab.ipynb)
 
 This project analyzes any GitHub user's public profile using the **free GitHub REST API**.  
 It compares developer activity, repository stats, and programming language usage.  
