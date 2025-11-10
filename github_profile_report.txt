@@ -1,0 +1,25 @@
+
+GitHub Developer Profile Report
+
+Username: torvalds
+Name: Linus Torvalds
+Followers: 254941
+Public Repos: 9
+
+Top Skills (Based on Repo Languages):
+Language
+C           6
+OpenSCAD    2
+C++         1
+
+Top Starred Projects:
+         Repository  Stars Language
+              linux 206670        C
+             uemacs   1632        C
+        GuitarPedal   1156 OpenSCAD
+           test-tlb    831        C
+         pesconvert    455        C
+              1590A    437 OpenSCAD
+subsurface-for-dirk    346      C++
+     libdc-for-dirk    283        C
+            libgit2    230        C
